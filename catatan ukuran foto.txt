@@ -1,0 +1,18 @@
+ukuran resolusi profil
+1250 1550 x1
+2500 3100 x2
+
+foto porto
+1. ERP Odoo
+2. warehouse desain
+3. desain packaging
+4. Mochi Mobi
+5. figma UI/UX
+6. E-commerce web php
+
+ukuran foto porto
+600 650
+1200 1300
+
+ukura galeri
+2100 1400
